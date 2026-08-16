@@ -13,6 +13,27 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 mkdir -p data/gtfs data/osm web/vendor
 
+# A downloaded extract is only accepted if it PARSES and carries a plausible
+# number of elements. `grep -q '"elements"'` — the guard this family used
+# everywhere — passes on a truncated response too: Brașov's roads arrived as a
+# 65 kB fragment that still contained the string, was taken for complete, and
+# silently skipped the city (16.08.2026).
+# The minimum differs by extract: a road network runs to tens of thousands of
+# ways, a city tram network to a few hundred, so the caller passes its own floor
+# rather than sharing one.
+# A rejected file is deleted rather than left behind — the `[ ! -f … ]` gates
+# below only ask whether the file exists, so a fragment on disk would be taken
+# for a finished download on the next run.
+ok_json () { # $1=file  $2=minimum element count
+  python3 - "$1" "$2" <<'PYEOF' 2>/dev/null
+import json, sys
+try:
+    sys.exit(0 if len(json.load(open(sys.argv[1])).get("elements", [])) >= int(sys.argv[2]) else 1)
+except Exception:
+    sys.exit(1)
+PYEOF
+}
+
 # The road network reaches far past the city: the suburban lines run south to
 # Lazarevac and Mladenovac (44.38 N, 50 km out) and north to Dunavac past
 # Padinska Skela (45.07 N). Stops span 44.379–45.067 N / 20.101–20.718 E.
@@ -47,7 +68,7 @@ if [ ! -f data/osm/belgrade.json ]; then
   for BB in "$BB_S,$BB_W,$BB_MID_LAT,$BB_MID_LON" "$BB_S,$BB_MID_LON,$BB_MID_LAT,$BB_E" \
             "$BB_MID_LAT,$BB_W,$BB_N,$BB_MID_LON" "$BB_MID_LAT,$BB_MID_LON,$BB_N,$BB_E"; do
     i=$((i+1))
-    [ -s data/osm/road-tiles/tile$i.json ] && grep -q '"elements"' data/osm/road-tiles/tile$i.json && continue
+    ok_json "data/osm/road-tiles/tile$i.json" 2000 && continue
     QR="[out:json][timeout:600];way($BB)[\"highway\"~\"^(motorway|trunk|primary|secondary|tertiary|unclassified|residential|living_street|service|busway|construction|motorway_link|trunk_link|primary_link|secondary_link|tertiary_link)$\"];out geom;"
     got=0
     # overpass-api.de first: the lighter mirrors have been caught serving a
@@ -57,10 +78,10 @@ if [ ! -f data/osm/belgrade.json ]; then
               "https://overpass.kumi.systems/api/interpreter"; do
       echo "-- tile$i: $EP"
       if curl -fsS --max-time 600 -o data/osm/road-tiles/tile$i.json --data-urlencode "data=$QR" "$EP" \
-         && grep -q '"elements"' data/osm/road-tiles/tile$i.json; then got=1; break; fi
+         && ok_json "data/osm/road-tiles/tile$i.json" 2000; then got=1; break; fi
       sleep 5
     done
-    [ "$got" = 1 ] || ok_all=0
+    [ "$got" = 1 ] || { rm -f data/osm/road-tiles/tile$i.json; ok_all=0; }
     sleep 5
   done
   [ "$ok_all" = 1 ] || { echo "Overpass (roads): tiles failed" >&2; exit 1; }
@@ -94,11 +115,11 @@ if [ ! -f data/osm/belgrade-rail.json ]; then
             "https://overpass.kumi.systems/api/interpreter"; do
     echo "-- $EP"
     if curl -fsS --max-time 300 -o data/osm/belgrade-rail.json --data-urlencode "data=$QT" "$EP" \
-       && grep -q '"elements"' data/osm/belgrade-rail.json; then
+       && ok_json "data/osm/belgrade-rail.json" 40; then
       ok=1; break
     fi
   done
-  [ "$ok" = 1 ] || { echo "Overpass (rails): all mirrors failed" >&2; exit 1; }
+  [ "$ok" = 1 ] || { rm -f data/osm/belgrade-rail.json; echo "Overpass (rails): all mirrors failed" >&2; exit 1; }
 fi
 
 # 3) MapLibre GL (vendored, no CDN at runtime)
