@@ -175,55 +175,6 @@
       ]
     },
     {
-      "line": "15N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Plavi horizonti",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 34,
-          "lengthKm": 16.15,
-          "stats": {
-            "observations": 816,
-            "matched": 816,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.1247187317482226,
-            "roundaboutSegs": 41,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Republike",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 32,
-          "lengthKm": 16.04,
-          "stats": {
-            "observations": 812,
-            "matched": 812,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.038163678034965,
-            "roundaboutSegs": 43,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "16",
       "mode": "bus",
       "color": "#0059a9",
@@ -364,55 +315,6 @@
             "rawMeters": 0,
             "meanError": 2.254549770013815,
             "roundaboutSegs": 41,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "18N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Zemun /Bačka/",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 47,
-          "lengthKm": 22.2,
-          "stats": {
-            "observations": 1110,
-            "matched": 1110,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.8719763770411335,
-            "roundaboutSegs": 48,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Medaković 3",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 41,
-          "lengthKm": 21.67,
-          "stats": {
-            "observations": 1084,
-            "matched": 1084,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8988078142430935,
-            "roundaboutSegs": 56,
             "extStart": 0,
             "extEnd": 0
           }
@@ -910,55 +812,6 @@
       ]
     },
     {
-      "line": "26N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Braće Jerković",
-          "variants": 1,
-          "tripCount": 12,
-          "stops": 23,
-          "lengthKm": 8.85,
-          "stats": {
-            "observations": 443,
-            "matched": 443,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6197467009125106,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Dorćol /Dunavska/",
-          "variants": 1,
-          "tripCount": 12,
-          "stops": 22,
-          "lengthKm": 9.42,
-          "stats": {
-            "observations": 471,
-            "matched": 471,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.5433722787324062,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "27",
       "mode": "bus",
       "color": "#0059a9",
@@ -1057,55 +910,6 @@
       ]
     },
     {
-      "line": "27N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Mirijevo 3",
-          "variants": 1,
-          "tripCount": 18,
-          "stops": 28,
-          "lengthKm": 10.58,
-          "stats": {
-            "observations": 532,
-            "matched": 532,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.4314324487159393,
-            "roundaboutSegs": 3,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Republike",
-          "variants": 1,
-          "tripCount": 18,
-          "stops": 28,
-          "lengthKm": 10.75,
-          "stats": {
-            "observations": 540,
-            "matched": 540,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.4667641994176546,
-            "roundaboutSegs": 39,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "28",
       "mode": "bus",
       "color": "#149a3f",
@@ -1196,55 +1000,6 @@
             "rawStretchCount": 0,
             "rawMeters": 0,
             "meanError": 2.703206771332772,
-            "roundaboutSegs": 24,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "29N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Medaković 3",
-          "variants": 1,
-          "tripCount": 12,
-          "stops": 17,
-          "lengthKm": 7.92,
-          "stats": {
-            "observations": 397,
-            "matched": 397,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6412366831810314,
-            "roundaboutSegs": 43,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 18,
-          "lengthKm": 7.8,
-          "stats": {
-            "observations": 389,
-            "matched": 389,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6092117923939375,
             "roundaboutSegs": 24,
             "extStart": 0,
             "extEnd": 0
@@ -1351,55 +1106,6 @@
       ]
     },
     {
-      "line": "31N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Konjarnik",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 15,
-          "lengthKm": 6.99,
-          "stats": {
-            "observations": 351,
-            "matched": 351,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.4295969609611636,
-            "roundaboutSegs": 33,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 16,
-          "lengthKm": 7.03,
-          "stats": {
-            "observations": 351,
-            "matched": 351,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.282446540011423,
-            "roundaboutSegs": 39,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "32",
       "mode": "bus",
       "color": "#0059a9",
@@ -1498,55 +1204,6 @@
       ]
     },
     {
-      "line": "32N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Višnjica",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 24,
-          "lengthKm": 11.03,
-          "stats": {
-            "observations": 552,
-            "matched": 552,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.420259595437066,
-            "roundaboutSegs": 21,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Republike",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 23,
-          "lengthKm": 11.14,
-          "stats": {
-            "observations": 559,
-            "matched": 559,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.5229053452234098,
-            "roundaboutSegs": 25,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "33",
       "mode": "bus",
       "color": "#0059a9",
@@ -1589,55 +1246,6 @@
             "rawMeters": 0,
             "meanError": 2.0353531755799317,
             "roundaboutSegs": 25,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "33N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Kumodraž",
-          "variants": 1,
-          "tripCount": 18,
-          "stops": 27,
-          "lengthKm": 11.46,
-          "stats": {
-            "observations": 575,
-            "matched": 575,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8990601203200341,
-            "roundaboutSegs": 58,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Republike",
-          "variants": 1,
-          "tripCount": 18,
-          "stops": 28,
-          "lengthKm": 11.51,
-          "stats": {
-            "observations": 576,
-            "matched": 576,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.0098619135648232,
-            "roundaboutSegs": 46,
             "extStart": 0,
             "extEnd": 0
           }
@@ -1834,55 +1442,6 @@
             "rawMeters": 0,
             "meanError": 1.7754518541645283,
             "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "37N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Kneževac",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 28,
-          "lengthKm": 15.8,
-          "stats": {
-            "observations": 792,
-            "matched": 792,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.422430657439763,
-            "roundaboutSegs": 10,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Republike",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 29,
-          "lengthKm": 16.08,
-          "stats": {
-            "observations": 808,
-            "matched": 808,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.532170784167357,
-            "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
           }
@@ -2457,104 +2016,6 @@
       ]
     },
     {
-      "line": "47N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Resnik /Železnička stanica/",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 48,
-          "lengthKm": 24.65,
-          "stats": {
-            "observations": 1234,
-            "matched": 1234,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.71903243974924,
-            "roundaboutSegs": 45,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Republike",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 39,
-          "lengthKm": 20.65,
-          "stats": {
-            "observations": 1034,
-            "matched": 1034,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.7371916159819127,
-            "roundaboutSegs": 85,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "47Na",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Resnik /Železnička stanica/",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 45,
-          "lengthKm": 22.99,
-          "stats": {
-            "observations": 1150,
-            "matched": 1150,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6602565357492078,
-            "roundaboutSegs": 19,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Slavija",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 35,
-          "lengthKm": 18.96,
-          "stats": {
-            "observations": 948,
-            "matched": 948,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6396568199800987,
-            "roundaboutSegs": 61,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "48",
       "mode": "bus",
       "color": "#0059a9",
@@ -2744,55 +2205,6 @@
             "rawMeters": 0,
             "meanError": 1.5486575018863167,
             "roundaboutSegs": 14,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "51N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bele vode",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 27,
-          "lengthKm": 14.63,
-          "stats": {
-            "observations": 729,
-            "matched": 729,
-            "noCandidates": 0,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 20,
-            "meanError": 2.063472403358691,
-            "roundaboutSegs": 48,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Republike",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 26,
-          "lengthKm": 12.14,
-          "stats": {
-            "observations": 607,
-            "matched": 607,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6328803820332962,
-            "roundaboutSegs": 24,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3087,55 +2499,6 @@
             "rawMeters": 0,
             "meanError": 1.452134263341178,
             "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "56N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Rušanj",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 45,
-          "lengthKm": 27.45,
-          "stats": {
-            "observations": 1373,
-            "matched": 1373,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.1398116268458813,
-            "roundaboutSegs": 23,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Repbulike",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 48,
-          "lengthKm": 27.14,
-          "stats": {
-            "observations": 1355,
-            "matched": 1355,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.546635917368159,
-            "roundaboutSegs": 32,
             "extStart": 0,
             "extEnd": 0
           }
@@ -3759,55 +3122,6 @@
             "rawMeters": 0,
             "meanError": 1.511188351056694,
             "roundaboutSegs": 61,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "72N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Aerodrom Nikola Tesla",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 30,
-          "lengthKm": 17.84,
-          "stats": {
-            "observations": 892,
-            "matched": 892,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.111698042950401,
-            "roundaboutSegs": 67,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Aerodrom",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 31,
-          "lengthKm": 18.12,
-          "stats": {
-            "observations": 904,
-            "matched": 904,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6586848893029493,
-            "roundaboutSegs": 82,
             "extStart": 0,
             "extEnd": 0
           }
@@ -4809,55 +4123,6 @@
       ]
     },
     {
-      "line": "95N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Borča 3",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 40,
-          "lengthKm": 22.83,
-          "stats": {
-            "observations": 1140,
-            "matched": 1140,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.473638223601995,
-            "roundaboutSegs": 33,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Novi Beograd/Blok 45/",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 39,
-          "lengthKm": 22.17,
-          "stats": {
-            "observations": 1111,
-            "matched": 1111,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.357214535798332,
-            "roundaboutSegs": 28,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "96",
       "mode": "bus",
       "color": "#0059a9",
@@ -4948,132 +4213,6 @@
             "rawStretchCount": 0,
             "rawMeters": 0,
             "meanError": 1.5377206464248614,
-            "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "101N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Padinska skela",
-          "variants": 1,
-          "tripCount": 12,
-          "stops": 39,
-          "lengthKm": 22.23,
-          "stats": {
-            "observations": 1111,
-            "matched": 1111,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.252460522797637,
-            "roundaboutSegs": 23,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 40,
-          "lengthKm": 21.65,
-          "stats": {
-            "observations": 1079,
-            "matched": 1079,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.9186899904448942,
-            "roundaboutSegs": 14,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "101Na",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "Studentski trg",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 30,
-          "lengthKm": 18.43,
-          "stats": {
-            "observations": 919,
-            "matched": 919,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.1707825387242723,
-            "roundaboutSegs": 23,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "101Nb",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Borča 3",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 21,
-          "lengthKm": 12.44,
-          "stats": {
-            "observations": 624,
-            "matched": 624,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.9517879907240934,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Republike",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 21,
-          "lengthKm": 12.22,
-          "stats": {
-            "observations": 617,
-            "matched": 617,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.6442891483576796,
             "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
@@ -5425,55 +4564,6 @@
             "rawMeters": 0,
             "meanError": 2.072918260135983,
             "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "105N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ovča",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 35,
-          "lengthKm": 20.14,
-          "stats": {
-            "observations": 1009,
-            "matched": 1009,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.0700675637244674,
-            "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 40,
-          "lengthKm": 21.25,
-          "stats": {
-            "observations": 1063,
-            "matched": 1063,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8695847262571568,
-            "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
           }
@@ -5901,104 +4991,6 @@
       ]
     },
     {
-      "line": "202N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Veliko Selo",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 33,
-          "lengthKm": 13.76,
-          "stats": {
-            "observations": 688,
-            "matched": 688,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.6911931076132354,
-            "roundaboutSegs": 19,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Republike",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 34,
-          "lengthKm": 13.76,
-          "stats": {
-            "observations": 689,
-            "matched": 689,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8747354703947847,
-            "roundaboutSegs": 32,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "301Na",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Grocka",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 32,
-          "lengthKm": 21.25,
-          "stats": {
-            "observations": 1065,
-            "matched": 1065,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.536594430963497,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 48,
-          "lengthKm": 28.59,
-          "stats": {
-            "observations": 1438,
-            "matched": 1438,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.8972018815811533,
-            "roundaboutSegs": 21,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "302",
       "mode": "bus",
       "color": "#0059a9",
@@ -6104,55 +5096,6 @@
       ]
     },
     {
-      "line": "302N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Begaljica",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 59,
-          "lengthKm": 48.39,
-          "stats": {
-            "observations": 2432,
-            "matched": 2432,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.709871595902562,
-            "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 61,
-          "lengthKm": 47.13,
-          "stats": {
-            "observations": 2367,
-            "matched": 2367,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.9843591991307763,
-            "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "303",
       "mode": "bus",
       "color": "#0059a9",
@@ -6244,153 +5187,6 @@
             "rawMeters": 0,
             "meanError": 2.074409634024332,
             "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "304N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ritopek",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 73,
-          "lengthKm": 32.34,
-          "stats": {
-            "observations": 1618,
-            "matched": 1618,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.059693225177523,
-            "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 76,
-          "lengthKm": 32.33,
-          "stats": {
-            "observations": 1624,
-            "matched": 1624,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.0574463792803472,
-            "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "304Na",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Grocka",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 71,
-          "lengthKm": 38.3,
-          "stats": {
-            "observations": 1918,
-            "matched": 1918,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.836578214191381,
-            "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 49,
-          "lengthKm": 28.92,
-          "stats": {
-            "observations": 1448,
-            "matched": 1448,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.878761495610554,
-            "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "304Nb",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ritopek",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 78,
-          "lengthKm": 38.29,
-          "stats": {
-            "observations": 1925,
-            "matched": 1925,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.583480168540776,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Repbulike",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 71,
-          "lengthKm": 32.16,
-          "stats": {
-            "observations": 1608,
-            "matched": 1608,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 4.618159044164533,
-            "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
           }
@@ -6671,83 +5467,6 @@
             "rawMeters": 0,
             "meanError": 1.7177040494652545,
             "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "307N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Vinča",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 55,
-          "lengthKm": 25.11,
-          "stats": {
-            "observations": 1259,
-            "matched": 1259,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.8015465389274046,
-            "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 42,
-          "lengthKm": 19.02,
-          "stats": {
-            "observations": 955,
-            "matched": 955,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.362596673412167,
-            "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "307Na",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "Studentski trg",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 57,
-          "lengthKm": 25.13,
-          "stats": {
-            "observations": 1263,
-            "matched": 1263,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.8379675324236957,
-            "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
           }
@@ -7098,55 +5817,6 @@
             "rawMeters": 0,
             "meanError": 3.4691471370372557,
             "roundaboutSegs": 40,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "401N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Pinosava",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 53,
-          "lengthKm": 25.75,
-          "stats": {
-            "observations": 1291,
-            "matched": 1291,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.288126311268101,
-            "roundaboutSegs": 49,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Dorćol",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 43,
-          "lengthKm": 22.48,
-          "stats": {
-            "observations": 1123,
-            "matched": 1123,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.499894994926016,
-            "roundaboutSegs": 56,
             "extStart": 0,
             "extEnd": 0
           }
@@ -7672,55 +6342,6 @@
       ]
     },
     {
-      "line": "493N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Sopot",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 11,
-          "lengthKm": 58.67,
-          "stats": {
-            "observations": 2932,
-            "matched": 2932,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.4039189039273805,
-            "roundaboutSegs": 38,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "BAS",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 24,
-          "lengthKm": 74.67,
-          "stats": {
-            "observations": 3735,
-            "matched": 3735,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.9125801400896574,
-            "roundaboutSegs": 50,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "501",
       "mode": "bus",
       "color": "#0059a9",
@@ -8106,153 +6727,6 @@
             "rawMeters": 0,
             "meanError": 2.217834251123908,
             "roundaboutSegs": 14,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "511N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Sremčica",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 52,
-          "lengthKm": 27.5,
-          "stats": {
-            "observations": 1377,
-            "matched": 1377,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.2355708925112765,
-            "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 54,
-          "lengthKm": 27.76,
-          "stats": {
-            "observations": 1390,
-            "matched": 1390,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.808681915020902,
-            "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "511Na",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Sremčica",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 52,
-          "lengthKm": 27.5,
-          "stats": {
-            "observations": 1377,
-            "matched": 1377,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.084122916876178,
-            "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 48,
-          "lengthKm": 25.42,
-          "stats": {
-            "observations": 1272,
-            "matched": 1272,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.962676345962961,
-            "roundaboutSegs": 7,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "511Nb",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Novi Železnik",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 30,
-          "lengthKm": 15.95,
-          "stats": {
-            "observations": 796,
-            "matched": 796,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.9145682072890344,
-            "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Republike",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 32,
-          "lengthKm": 16.33,
-          "stats": {
-            "observations": 817,
-            "matched": 817,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.7355889171395984,
-            "roundaboutSegs": 7,
             "extStart": 0,
             "extEnd": 0
           }
@@ -8876,34 +7350,6 @@
       ]
     },
     {
-      "line": "581N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "Trg Slavija",
-          "headsign": "Trg Slavija",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 15,
-          "lengthKm": 59.22,
-          "stats": {
-            "observations": 2963,
-            "matched": 2963,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.5503182156313144,
-            "roundaboutSegs": 10,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "600",
       "mode": "bus",
       "color": "#0059a9",
@@ -9002,104 +7448,6 @@
       ]
     },
     {
-      "line": "601N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Surčin",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 76,
-          "lengthKm": 42.66,
-          "stats": {
-            "observations": 2135,
-            "matched": 2135,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.2945083064084346,
-            "roundaboutSegs": 45,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Slavija",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 25,
-          "lengthKm": 13.36,
-          "stats": {
-            "observations": 669,
-            "matched": 669,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.155751298204969,
-            "roundaboutSegs": 24,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "601Na",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Surčin",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 26,
-          "lengthKm": 13.42,
-          "stats": {
-            "observations": 672,
-            "matched": 672,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.2466524140865358,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "GO Novi Beograd",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 65,
-          "lengthKm": 34.59,
-          "stats": {
-            "observations": 1741,
-            "matched": 1741,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.0577141556822127,
-            "roundaboutSegs": 24,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "602",
       "mode": "bus",
       "color": "#0059a9",
@@ -9191,104 +7539,6 @@
             "rawMeters": 0,
             "meanError": 1.4045827355090374,
             "roundaboutSegs": 10,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "603N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ugrinovci",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 54,
-          "lengthKm": 31.3,
-          "stats": {
-            "observations": 1562,
-            "matched": 1562,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.657619391051699,
-            "roundaboutSegs": 44,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 26,
-          "lengthKm": 27.79,
-          "stats": {
-            "observations": 1377,
-            "matched": 1377,
-            "noCandidates": 0,
-            "viterbiBreaks": 1,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 20,
-            "meanError": 2.403046735286494,
-            "roundaboutSegs": 48,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "603Na",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Ugrinovci",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 54,
-          "lengthKm": 31.28,
-          "stats": {
-            "observations": 1561,
-            "matched": 1561,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.600457455192915,
-            "roundaboutSegs": 44,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 54,
-          "lengthKm": 31.55,
-          "stats": {
-            "observations": 1577,
-            "matched": 1577,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.8657321979686954,
-            "roundaboutSegs": 56,
             "extStart": 0,
             "extEnd": 0
           }
@@ -10087,55 +8337,6 @@
       ]
     },
     {
-      "line": "706N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Batajnica",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 45,
-          "lengthKm": 23.96,
-          "stats": {
-            "observations": 1200,
-            "matched": 1200,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.344684739058748,
-            "roundaboutSegs": 31,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 46,
-          "lengthKm": 24.08,
-          "stats": {
-            "observations": 1205,
-            "matched": 1205,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.025136741087713,
-            "roundaboutSegs": 51,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
       "line": "707",
       "mode": "bus",
       "color": "#0059a9",
@@ -10157,55 +8358,6 @@
             "rawMeters": 0,
             "meanError": 3.6488655017954077,
             "roundaboutSegs": 31,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "707N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Zemun polje",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 43,
-          "lengthKm": 19.84,
-          "stats": {
-            "observations": 992,
-            "matched": 992,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.0998917141988183,
-            "roundaboutSegs": 31,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Studentski trg",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 43,
-          "lengthKm": 19.46,
-          "stats": {
-            "observations": 973,
-            "matched": 973,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 3.027947488448214,
-            "roundaboutSegs": 36,
             "extStart": 0,
             "extEnd": 0
           }
@@ -10353,55 +8505,6 @@
             "rawMeters": 0,
             "meanError": 1.9293554747569817,
             "roundaboutSegs": 26,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ]
-    },
-    {
-      "line": "860N",
-      "mode": "bus",
-      "color": "#0059a9",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Obrenovac",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 11,
-          "lengthKm": 32.99,
-          "stats": {
-            "observations": 1649,
-            "matched": 1649,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 1.9205978076500774,
-            "roundaboutSegs": 26,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Trg Slavija",
-          "variants": 1,
-          "tripCount": 3,
-          "stops": 11,
-          "lengthKm": 32.51,
-          "stats": {
-            "observations": 1627,
-            "matched": 1627,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 2.3586108403129233,
-            "roundaboutSegs": 34,
             "extStart": 0,
             "extEnd": 0
           }
@@ -11240,6 +9343,1943 @@
           }
         }
       ]
+    },
+    {
+      "line": "15N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Plavi horizonti",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 34,
+          "lengthKm": 16.15,
+          "stats": {
+            "observations": 816,
+            "matched": 816,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.1247187317482226,
+            "roundaboutSegs": 41,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Republike",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 32,
+          "lengthKm": 16.04,
+          "stats": {
+            "observations": 812,
+            "matched": 812,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.038163678034965,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "18N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Zemun /Bačka/",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 47,
+          "lengthKm": 22.2,
+          "stats": {
+            "observations": 1110,
+            "matched": 1110,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8719763770411335,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Medaković 3",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 41,
+          "lengthKm": 21.67,
+          "stats": {
+            "observations": 1084,
+            "matched": 1084,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8988078142430935,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "26N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Braće Jerković",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 23,
+          "lengthKm": 8.85,
+          "stats": {
+            "observations": 443,
+            "matched": 443,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6197467009125106,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dorćol /Dunavska/",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 22,
+          "lengthKm": 9.42,
+          "stats": {
+            "observations": 471,
+            "matched": 471,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5433722787324062,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "27N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Mirijevo 3",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 28,
+          "lengthKm": 10.58,
+          "stats": {
+            "observations": 532,
+            "matched": 532,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4314324487159393,
+            "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Republike",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 28,
+          "lengthKm": 10.75,
+          "stats": {
+            "observations": 540,
+            "matched": 540,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.4667641994176546,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "29N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Medaković 3",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 17,
+          "lengthKm": 7.92,
+          "stats": {
+            "observations": 397,
+            "matched": 397,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6412366831810314,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 18,
+          "lengthKm": 7.8,
+          "stats": {
+            "observations": 389,
+            "matched": 389,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6092117923939375,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "31N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Konjarnik",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 15,
+          "lengthKm": 6.99,
+          "stats": {
+            "observations": 351,
+            "matched": 351,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.4295969609611636,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 16,
+          "lengthKm": 7.03,
+          "stats": {
+            "observations": 351,
+            "matched": 351,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.282446540011423,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "32N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Višnjica",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 24,
+          "lengthKm": 11.03,
+          "stats": {
+            "observations": 552,
+            "matched": 552,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.420259595437066,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Republike",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 23,
+          "lengthKm": 11.14,
+          "stats": {
+            "observations": 559,
+            "matched": 559,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.5229053452234098,
+            "roundaboutSegs": 25,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "33N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Kumodraž",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 27,
+          "lengthKm": 11.46,
+          "stats": {
+            "observations": 575,
+            "matched": 575,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8990601203200341,
+            "roundaboutSegs": 58,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Republike",
+          "variants": 1,
+          "tripCount": 18,
+          "stops": 28,
+          "lengthKm": 11.51,
+          "stats": {
+            "observations": 576,
+            "matched": 576,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0098619135648232,
+            "roundaboutSegs": 46,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "37N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Kneževac",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 28,
+          "lengthKm": 15.8,
+          "stats": {
+            "observations": 792,
+            "matched": 792,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.422430657439763,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Republike",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 29,
+          "lengthKm": 16.08,
+          "stats": {
+            "observations": 808,
+            "matched": 808,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.532170784167357,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "47N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Resnik /Železnička stanica/",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 48,
+          "lengthKm": 24.65,
+          "stats": {
+            "observations": 1234,
+            "matched": 1234,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.71903243974924,
+            "roundaboutSegs": 45,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Republike",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 39,
+          "lengthKm": 20.65,
+          "stats": {
+            "observations": 1034,
+            "matched": 1034,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.7371916159819127,
+            "roundaboutSegs": 85,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "47Na",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Resnik /Železnička stanica/",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 45,
+          "lengthKm": 22.99,
+          "stats": {
+            "observations": 1150,
+            "matched": 1150,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6602565357492078,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Slavija",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 35,
+          "lengthKm": 18.96,
+          "stats": {
+            "observations": 948,
+            "matched": 948,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6396568199800987,
+            "roundaboutSegs": 61,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "51N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bele vode",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 27,
+          "lengthKm": 14.63,
+          "stats": {
+            "observations": 729,
+            "matched": 729,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 2.063472403358691,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Republike",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 26,
+          "lengthKm": 12.14,
+          "stats": {
+            "observations": 607,
+            "matched": 607,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6328803820332962,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "56N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Rušanj",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 45,
+          "lengthKm": 27.45,
+          "stats": {
+            "observations": 1373,
+            "matched": 1373,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.1398116268458813,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Repbulike",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 48,
+          "lengthKm": 27.14,
+          "stats": {
+            "observations": 1355,
+            "matched": 1355,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.546635917368159,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "72N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Aerodrom Nikola Tesla",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 30,
+          "lengthKm": 17.84,
+          "stats": {
+            "observations": 892,
+            "matched": 892,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.111698042950401,
+            "roundaboutSegs": 67,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Aerodrom",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 31,
+          "lengthKm": 18.12,
+          "stats": {
+            "observations": 904,
+            "matched": 904,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6586848893029493,
+            "roundaboutSegs": 82,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "95N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Borča 3",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 40,
+          "lengthKm": 22.83,
+          "stats": {
+            "observations": 1140,
+            "matched": 1140,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.473638223601995,
+            "roundaboutSegs": 33,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Novi Beograd/Blok 45/",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 39,
+          "lengthKm": 22.17,
+          "stats": {
+            "observations": 1111,
+            "matched": 1111,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.357214535798332,
+            "roundaboutSegs": 28,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "101N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Padinska skela",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 39,
+          "lengthKm": 22.23,
+          "stats": {
+            "observations": 1111,
+            "matched": 1111,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.252460522797637,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 40,
+          "lengthKm": 21.65,
+          "stats": {
+            "observations": 1079,
+            "matched": 1079,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9186899904448942,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "101Na",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Studentski trg",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 30,
+          "lengthKm": 18.43,
+          "stats": {
+            "observations": 919,
+            "matched": 919,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.1707825387242723,
+            "roundaboutSegs": 23,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "101Nb",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Borča 3",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 21,
+          "lengthKm": 12.44,
+          "stats": {
+            "observations": 624,
+            "matched": 624,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9517879907240934,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Republike",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 21,
+          "lengthKm": 12.22,
+          "stats": {
+            "observations": 617,
+            "matched": 617,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.6442891483576796,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "105N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ovča",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 35,
+          "lengthKm": 20.14,
+          "stats": {
+            "observations": 1009,
+            "matched": 1009,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.0700675637244674,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 40,
+          "lengthKm": 21.25,
+          "stats": {
+            "observations": 1063,
+            "matched": 1063,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8695847262571568,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "202N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Veliko Selo",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 33,
+          "lengthKm": 13.76,
+          "stats": {
+            "observations": 688,
+            "matched": 688,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.6911931076132354,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Republike",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 34,
+          "lengthKm": 13.76,
+          "stats": {
+            "observations": 689,
+            "matched": 689,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8747354703947847,
+            "roundaboutSegs": 32,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "301Na",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Grocka",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 32,
+          "lengthKm": 21.25,
+          "stats": {
+            "observations": 1065,
+            "matched": 1065,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.536594430963497,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 48,
+          "lengthKm": 28.59,
+          "stats": {
+            "observations": 1438,
+            "matched": 1438,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.8972018815811533,
+            "roundaboutSegs": 21,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "302N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Begaljica",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 59,
+          "lengthKm": 48.39,
+          "stats": {
+            "observations": 2432,
+            "matched": 2432,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.709871595902562,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 61,
+          "lengthKm": 47.13,
+          "stats": {
+            "observations": 2367,
+            "matched": 2367,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.9843591991307763,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "304N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ritopek",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 73,
+          "lengthKm": 32.34,
+          "stats": {
+            "observations": 1618,
+            "matched": 1618,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.059693225177523,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 76,
+          "lengthKm": 32.33,
+          "stats": {
+            "observations": 1624,
+            "matched": 1624,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0574463792803472,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "304Na",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Grocka",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 71,
+          "lengthKm": 38.3,
+          "stats": {
+            "observations": 1918,
+            "matched": 1918,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.836578214191381,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 49,
+          "lengthKm": 28.92,
+          "stats": {
+            "observations": 1448,
+            "matched": 1448,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.878761495610554,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "304Nb",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ritopek",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 78,
+          "lengthKm": 38.29,
+          "stats": {
+            "observations": 1925,
+            "matched": 1925,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.583480168540776,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Repbulike",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 71,
+          "lengthKm": 32.16,
+          "stats": {
+            "observations": 1608,
+            "matched": 1608,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 4.618159044164533,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "307N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Vinča",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 55,
+          "lengthKm": 25.11,
+          "stats": {
+            "observations": 1259,
+            "matched": 1259,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8015465389274046,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 42,
+          "lengthKm": 19.02,
+          "stats": {
+            "observations": 955,
+            "matched": 955,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.362596673412167,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "307Na",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Studentski trg",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 57,
+          "lengthKm": 25.13,
+          "stats": {
+            "observations": 1263,
+            "matched": 1263,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.8379675324236957,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "401N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Pinosava",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 53,
+          "lengthKm": 25.75,
+          "stats": {
+            "observations": 1291,
+            "matched": 1291,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.288126311268101,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dorćol",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 43,
+          "lengthKm": 22.48,
+          "stats": {
+            "observations": 1123,
+            "matched": 1123,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.499894994926016,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "493N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Sopot",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 11,
+          "lengthKm": 58.67,
+          "stats": {
+            "observations": 2932,
+            "matched": 2932,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.4039189039273805,
+            "roundaboutSegs": 38,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "BAS",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 24,
+          "lengthKm": 74.67,
+          "stats": {
+            "observations": 3735,
+            "matched": 3735,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9125801400896574,
+            "roundaboutSegs": 50,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "511N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Sremčica",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 52,
+          "lengthKm": 27.5,
+          "stats": {
+            "observations": 1377,
+            "matched": 1377,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.2355708925112765,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 54,
+          "lengthKm": 27.76,
+          "stats": {
+            "observations": 1390,
+            "matched": 1390,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.808681915020902,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "511Na",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Sremčica",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 52,
+          "lengthKm": 27.5,
+          "stats": {
+            "observations": 1377,
+            "matched": 1377,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.084122916876178,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 48,
+          "lengthKm": 25.42,
+          "stats": {
+            "observations": 1272,
+            "matched": 1272,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.962676345962961,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "511Nb",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Novi Železnik",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 30,
+          "lengthKm": 15.95,
+          "stats": {
+            "observations": 796,
+            "matched": 796,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.9145682072890344,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Republike",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 32,
+          "lengthKm": 16.33,
+          "stats": {
+            "observations": 817,
+            "matched": 817,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.7355889171395984,
+            "roundaboutSegs": 7,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "581N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Trg Slavija",
+          "headsign": "Trg Slavija",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 15,
+          "lengthKm": 59.22,
+          "stats": {
+            "observations": 2963,
+            "matched": 2963,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.5503182156313144,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "601N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Surčin",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 76,
+          "lengthKm": 42.66,
+          "stats": {
+            "observations": 2135,
+            "matched": 2135,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2945083064084346,
+            "roundaboutSegs": 45,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Slavija",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 25,
+          "lengthKm": 13.36,
+          "stats": {
+            "observations": 669,
+            "matched": 669,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.155751298204969,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "601Na",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Surčin",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 26,
+          "lengthKm": 13.42,
+          "stats": {
+            "observations": 672,
+            "matched": 672,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.2466524140865358,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "GO Novi Beograd",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 65,
+          "lengthKm": 34.59,
+          "stats": {
+            "observations": 1741,
+            "matched": 1741,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.0577141556822127,
+            "roundaboutSegs": 24,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "603N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ugrinovci",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 54,
+          "lengthKm": 31.3,
+          "stats": {
+            "observations": 1562,
+            "matched": 1562,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.657619391051699,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 26,
+          "lengthKm": 27.79,
+          "stats": {
+            "observations": 1377,
+            "matched": 1377,
+            "noCandidates": 0,
+            "viterbiBreaks": 1,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 20,
+            "meanError": 2.403046735286494,
+            "roundaboutSegs": 48,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "603Na",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Ugrinovci",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 54,
+          "lengthKm": 31.28,
+          "stats": {
+            "observations": 1561,
+            "matched": 1561,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.600457455192915,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 54,
+          "lengthKm": 31.55,
+          "stats": {
+            "observations": 1577,
+            "matched": 1577,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.8657321979686954,
+            "roundaboutSegs": 56,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "706N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Batajnica",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 45,
+          "lengthKm": 23.96,
+          "stats": {
+            "observations": 1200,
+            "matched": 1200,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.344684739058748,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 46,
+          "lengthKm": 24.08,
+          "stats": {
+            "observations": 1205,
+            "matched": 1205,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.025136741087713,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "707N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Zemun polje",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 43,
+          "lengthKm": 19.84,
+          "stats": {
+            "observations": 992,
+            "matched": 992,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.0998917141988183,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Studentski trg",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 43,
+          "lengthKm": 19.46,
+          "stats": {
+            "observations": 973,
+            "matched": 973,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 3.027947488448214,
+            "roundaboutSegs": 36,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "860N",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Obrenovac",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 11,
+          "lengthKm": 32.99,
+          "stats": {
+            "observations": 1649,
+            "matched": 1649,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 1.9205978076500774,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Trg Slavija",
+          "variants": 1,
+          "tripCount": 3,
+          "stops": 11,
+          "lengthKm": 32.51,
+          "stats": {
+            "observations": 1627,
+            "matched": 1627,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 2.3586108403129233,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
     }
   ]
 }
