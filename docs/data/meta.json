@@ -3380,7 +3380,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Zemun /Novi grad/ ",
+          "headsign": "Zemun /Novi grad/",
           "variants": 1,
           "tripCount": 321,
           "stops": 39,
@@ -6495,7 +6495,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Železnička stanica Resnik",
           "variants": 1,
           "tripCount": 168,
           "stops": 24,
@@ -6516,7 +6516,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Vidikovac",
           "variants": 1,
           "tripCount": 174,
           "stops": 23,
@@ -6964,7 +6964,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Rušanj /13. septembra/ ",
+          "headsign": "Rušanj /13. septembra/",
           "variants": 1,
           "tripCount": 97,
           "stops": 13,
@@ -7013,7 +7013,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Rušanj /13. septembra/ ",
+          "headsign": "Rušanj /13. septembra/",
           "variants": 1,
           "tripCount": 40,
           "stops": 17,
@@ -8420,7 +8420,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "Zemun polje ",
+          "headsign": "Zemun polje",
           "variants": 1,
           "tripCount": 137,
           "stops": 27,
@@ -8518,7 +8518,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Aerodrom Nikola Tesla /dolasci/",
           "variants": 1,
           "tripCount": 147,
           "stops": 8,
@@ -8539,7 +8539,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Trg Slavija",
           "variants": 1,
           "tripCount": 144,
           "stops": 7,
@@ -8714,7 +8714,7 @@
       "dirs": [
         {
           "dir": "0",
-          "headsign": "",
+          "headsign": "Naselje Belvil",
           "variants": 1,
           "tripCount": 132,
           "stops": 16,
@@ -10351,7 +10351,7 @@
         },
         {
           "dir": "1",
-          "headsign": "",
+          "headsign": "Trg republike",
           "variants": 1,
           "tripCount": 3,
           "stops": 48,
