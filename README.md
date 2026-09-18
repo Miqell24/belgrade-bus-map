@@ -1,4 +1,4 @@
-# Belgrade Public Transport — interactive map
+# Београд / Beograd Public Transport — interactive map
 
 Interactive, poster-grade map of the public transport network of **Belgrade**:
 the Beograd Plus city, night, express and suburban buses, the six trolleybus
